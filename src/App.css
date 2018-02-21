@@ -1,0 +1,77 @@
+.App {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.fa-search {
+  position: absolute;
+  top: 15px;
+  left: 25px;
+}
+
+::placeholder {
+  margin-left: 20px;
+}
+
+.search {
+  padding-left: 30px;
+  margin-top: 5px;
+}
+
+.list {
+  text-align: left;
+}
+
+.border {
+  padding-top: 20px;
+  border: 1px solid #dee2e6 !important;
+  border-radius: 3px;
+  height: 800px;
+}
+
+.middle {
+  text-align: center;
+}
+
+.first-line {
+  border: 1px solid #dee2e6;
+  border-radius: 3px;
+  height: auto;
+}
+
+.first-team {
+  border: 1px solid #dee2e6;
+  border-radius: 3px;
+  margin-left: 20px;
+  height: 300px;
+  margin-top: 30px;
+}
+
+.second-team {
+  border: 1px solid #dee2e6;
+  border-radius: 3px;
+  margin-right: 20px;
+  height: 150px;
+  margin-top: 180px;
+}
+
+.buttonName {
+  margin-top: 30px;
+  text-align: right;
+}
+
+.under-team {
+  margin-top: 30px;
+}
+
+.line {
+  position: relative;
+  height: 350px;
+  margin: 92px 2.1em 0;
+  border-right: 1px solid #dee2e6;
+}
+
+.manchester {
+  float: right;
+  margin-top: 20px;
+}
