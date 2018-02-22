@@ -46,17 +46,17 @@ class App extends Component {
               </div>
               <div className="second-line">
                 <Row>
-                  <Col sm="5">
+                  <Col sm="6">
                     <div className="under-team">
                       <h3>Chelsea</h3>
                       <Input type="text" />
                       <Button outline color="secondary" size="sm" className="manchester">Bet on Chelsea</Button>
                     </div>
                   </Col>
-                  <Col sm="2">
+                  {/* <Col sm="2">
                     <div className="line"></div>
-                  </Col>
-                  <Col sm="5">
+                  </Col> */}
+                  <Col sm="6">
                     <div className="under-team">
                       <h3>Manchester</h3>
                       <Input type="text" />
